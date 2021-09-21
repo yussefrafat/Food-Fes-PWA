@@ -1,0 +1,31 @@
+{
+  "name": "Food-Fes-PWA",
+  "version": "1.0.0",
+  "description": "## test",
+  "main": "assets/js/script.js",
+  "scripts": {
+    "webpack": "webpack --watch",
+    "build": "webpack",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://yussefrafat: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@github.com/yussefrafat/Food-Fes-PWA.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/yussefrafat/Food-Fes-PWA/issues"
+  },
+  "homepage": "https://github.com/yussefrafat/Food-Fes-PWA#readme",
+  "devDependencies": {
+    "webpack": "^5.53.0",
+    "webpack-cli": "^4.8.0"
+  },
+  "dependencies": {
+    "bootstrap": "^5.1.1",
+    "jquery": "^3.6.0",
+    "popper.js": "^1.16.1"
+  }
+}
